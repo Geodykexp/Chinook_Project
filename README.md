@@ -79,6 +79,11 @@ The SQL scripts included in this project demonstrate:
 - Employee support-performance analysis
 
 
+## Tableau
+
+The tableau workbook, `Chinook_Database.twb`, provides interactive visualizations and analysis of the Chinook databasse. All the table files of the database are linked manually on tableau to show the entity relationship diagram of the schema before the insights are created on the dashboard using the connected data. 
+
+
 ## License and Source
 
 The Chinook database is based on the open-source Chinook sample database created by Luis Rocha and is widely used in SQL and analytics training.
